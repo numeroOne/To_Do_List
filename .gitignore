@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.env
+*.env
+todo.json
+*.sqlite3
