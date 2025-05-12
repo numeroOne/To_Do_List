@@ -5,7 +5,7 @@ import json   # modul python untuk menulis dan membaca file json
 import os     # modul python untuk berinteraksi dengan os ( read, write directory / file)
 
 todo_file = "todolist.json"
-
+1
 
 # membuat tipe data dengan list 
 todo_list = [] 
